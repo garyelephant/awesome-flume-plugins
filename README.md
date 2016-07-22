@@ -6,6 +6,15 @@ A curated list of awesome Apache Flume Plugins: sources, sinks, interceptors, se
 ## Sources
 
 
+## Channels
+
+*   [dual channel](https://github.com/javachen/mt-flume/tree/master/flume-ng-channels/flume-dual-channel)
+
+meituan.com open sourced it's dual channel, something like [Spillable Memory Channel](https://flume.apache.org/FlumeUserGuide.html#spillable-memory-channel), and has been used in production.
+
+see more: [chinese introduction](http://tech.meituan.com/mt-log-system-optimization.html)
+
+
 ## Sinks
 
 *   [flume-ng-kafka-sink for kafka 0.8.2, 0.9.x, 0.10.x](https://github.com/apache/flume/tree/trunk/flume-ng-sinks/flume-ng-kafka-sink)
