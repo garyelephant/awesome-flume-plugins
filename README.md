@@ -1,6 +1,8 @@
 # awesome-flume-plugins
 A curated list of awesome Apache Flume Plugins: sources, sinks, interceptors, serializer, monitoring tools
 
+> How to install your flume plugins(for flume >= 1.4.0), see https://flume.apache.org/FlumeUserGuide.html#installing-third-party-plugins
+
 ## Sources
 
 
