@@ -40,6 +40,13 @@ Since the builtin flume-ng-kafka-sink in Flume 1.6.0 only support kafka 0.8.1, t
 </build>
 ```
 
+*   [flume-ng router sinks](https://github.com/kylelin/flume-ng-router-sinks)
+
+    *   AvroRouterSink
+    *   MailRouterSink
+
+Extends flume-ng sinks to router-like sinks, which can route events according to specific header of event.Compatible with flume 1.4.0, 1.5.0, 1.5.0.1.
+
 
 ## Interceptors
 
